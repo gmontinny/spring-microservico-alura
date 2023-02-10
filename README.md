@@ -1,1 +1,1 @@
-# spring-microsservico-alura
+# spring-microsservico-circuitbreaker-eureka
